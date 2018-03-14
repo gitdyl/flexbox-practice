@@ -1,0 +1,27 @@
+.container {
+	display: flex;
+	border: 10px solid purple;
+	height: 100vh;
+	flex-wrap: wrap-reverse;
+	
+}
+
+.box {
+	width: 300px;
+
+}
+
+
+.box1 {background: #3C3744}
+.box2 {background: #090C9B}   
+.box3 {background: #3066BE}
+.box4 {background: #B4C5E4}
+.box5 {background: #FBFFF1}
+.box6 {background: #85C7DE}
+.box7 {background: #A0C4E2}
+.box8 {background: #AED1E6}
+.box9 {background: #C6DBF0}
+.box10{background: #CFE8EF}
+
+
+
